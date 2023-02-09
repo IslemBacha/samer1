@@ -1,0 +1,107 @@
+nav{
+    margin-left: 800px;
+}
+
+ .azer{
+    text-decoration: none;
+    font-size: 32px;
+    margin-left: 24px;
+    color: green;
+}
+    
+    
+
+
+.azer:hover{
+    color: crimson;
+    text-decoration: underline;
+    font-size: 36px;
+    background-color: aqua;
+
+}
+h2{
+    font-size: 31px;
+    margin-left: 8%;
+    color: #4ECDC4;
+    text-decoration: underline;
+}
+p{
+    line-height: 43px;
+    display: inline-block;
+    width: 36%;
+    font-size: 19px;
+    margin-left: 131px;
+    text-align: justify;
+}
+ul{
+    margin-left: 8%;
+    font-size: 32px;
+
+}
+ol{
+    margin-left: 8%;
+    font-size: 32px;  
+}
+dl{
+    margin-left: 8%;
+    font-size: 32px;   
+}
+img{
+    
+   
+    width: 250px;
+    height: 250px;
+    border-radius: 160px;
+}
+
+    
+   
+
+   
+
+   
+    table,th,td{
+        border: 1px solid black ;
+        border-collapse: collapse;
+    }
+    td{
+        width: 5%;
+    }
+    td:hover{
+        width: 20%;
+    }
+    table{
+        margin: auto;
+        background-color: #4ECDC4;
+
+    }
+    form{
+        width: 21%;
+        margin: auto;
+    }
+    input{
+        margin-left: 46px;
+        margin-bottom: 16px;
+    }
+    #aa{
+        margin-left: 22px;
+    }
+   
+    
+    button{
+        background-color: red;
+        width: 155px;
+        font-size: 32px;
+        box-shadow: red;
+        color: white;
+        font-weight: bold;
+
+
+
+    }
+
+        
+        
+
+   
+   
